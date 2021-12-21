@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XXrCLiW2si1MU5i/hXzLSBViSneTxfLux/NtBbf5YKPYp1/LcrcoLux7gAVqxEggCIEKdMr7v4mNs3J96sB6Ew==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\Testing\\C#\\MasterMind\\MasterMind.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TjerkBeke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

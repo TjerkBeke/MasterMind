@@ -1,0 +1,16 @@
+D:\Coding\Testing\C#\MasterMind\obj\Debug\net5.0\MasterMind.csproj.AssemblyReference.cache
+D:\Coding\Testing\C#\MasterMind\obj\Debug\net5.0\MasterMind.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Testing\C#\MasterMind\obj\Debug\net5.0\MasterMind.AssemblyInfoInputs.cache
+D:\Coding\Testing\C#\MasterMind\obj\Debug\net5.0\MasterMind.AssemblyInfo.cs
+D:\Coding\Testing\C#\MasterMind\obj\Debug\net5.0\MasterMind.csproj.CoreCompileInputs.cache
+D:\Coding\Testing\C#\MasterMind\bin\Debug\net5.0\MasterMind.exe
+D:\Coding\Testing\C#\MasterMind\bin\Debug\net5.0\MasterMind.deps.json
+D:\Coding\Testing\C#\MasterMind\bin\Debug\net5.0\MasterMind.runtimeconfig.json
+D:\Coding\Testing\C#\MasterMind\bin\Debug\net5.0\MasterMind.runtimeconfig.dev.json
+D:\Coding\Testing\C#\MasterMind\bin\Debug\net5.0\MasterMind.dll
+D:\Coding\Testing\C#\MasterMind\bin\Debug\net5.0\ref\MasterMind.dll
+D:\Coding\Testing\C#\MasterMind\bin\Debug\net5.0\MasterMind.pdb
+D:\Coding\Testing\C#\MasterMind\obj\Debug\net5.0\MasterMind.dll
+D:\Coding\Testing\C#\MasterMind\obj\Debug\net5.0\ref\MasterMind.dll
+D:\Coding\Testing\C#\MasterMind\obj\Debug\net5.0\MasterMind.pdb
+D:\Coding\Testing\C#\MasterMind\obj\Debug\net5.0\MasterMind.genruntimeconfig.cache
